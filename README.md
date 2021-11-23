@@ -3,7 +3,8 @@
 ## Welcome to my GitHub page, which I use roughly once a year.
 
 <img src="https://github.com/emildel/emildel/blob/main/GitHub_comic.png?raw=true" alt="Comic about my lack of work ethic">
-###### @webcomic_name on insta
+
+@webcomic_name on insta
 
 <!--
 **emildel/emildel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
